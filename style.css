@@ -17,3 +17,35 @@
     background-color: blue;
     color: white;
 }
+
+
+/* Nog af te maken
+.grid2{
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 4cm;
+    height: 4cm;
+    justify-items: ;
+    align-items: space-around;
+    grid-gap: 0.2em;
+}
+
+.rood2{
+    grid-row: 1 / span 2 ;
+    background-color: red;
+    color: white;
+    
+}
+
+.groen2{
+    background-color: green;
+    color: white;
+    
+}
+
+.blauw2{
+    background-color: blue;
+    color: white;
+}
+
+*/
