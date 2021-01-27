@@ -1,0 +1,19 @@
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.rood{
+    background-color: red;
+    color: white;
+}
+
+.groen{
+    background-color: green;
+    color: white;
+}
+
+.blauw{
+    background-color: blue;
+    color: white;
+}
