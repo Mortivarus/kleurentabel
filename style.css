@@ -19,33 +19,39 @@
 }
 
 
-/* Nog af te maken
+
 .grid2{
     display: grid;
     grid-template-columns: auto auto;
-    width: 4cm;
-    height: 4cm;
+    width: 150px;
+    height: 100px;
     justify-items: ;
-    align-items: space-around;
     grid-gap: 0.2em;
 }
 
 .rood2{
+    display: flex;
     grid-row: 1 / span 2 ;
-    background-color: red;
+    background-color: rgb(255, 128, 128);
     color: white;
+    align-items: center;
+    justify-content: center;
     
 }
 
 .groen2{
-    background-color: green;
+    background-color: rgb(133, 224, 133);
     color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
 }
 
 .blauw2{
-    background-color: blue;
+    background-color: rgb(153, 179, 255);
     color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-
-*/
